@@ -1,5 +1,5 @@
 
-# Tribute page
+# Image Gallery
 This is a single page Image Gallery build by using HTML and CSS 
 
 ## Screenshot
