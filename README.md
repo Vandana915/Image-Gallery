@@ -9,7 +9,7 @@ https://github.com/Vandana915/Image-Gallery/assets/124566666/4f6b5b4d-ad18-46a2-
 
 ## Link
 
-[🔗links](http://127.0.0.1:5500/index.html).
+You can explore the live demo of the Image Gallery[🔗links](http://127.0.0.1:5500/index.html).
 
 
 ##  Built with
