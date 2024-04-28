@@ -5,7 +5,7 @@ This is a Image Gallery build by using HTML and CSS
 
 
 ## Demo
-You can explore the live demo of the Tribute Page [Here].
+You can explore the live demo of the Image Gallery [Here].
 
 
 ##  Built with
